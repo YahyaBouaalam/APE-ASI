@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">APE-ASI</string>
+    <string name="home">Home Page</string>
+    <string name="welcome">Welcome to the official APE-ASI mobile application!</string>
+    <string name="intro">Here you will find information about the association and its events, apply for a membership, and much more!</string>
+    <string name="logo">Parents Association</string>
+    <string name="aboutus">About Us</string>
+    <string name="membership">Membership</string>
+    <string name="membershiptxt">every student’s parent is by  default a regular member of APE-ASI, but in order to be an active member of the  association, you need to complete the form below. After submitting the form, a  member from the board will contact you to pay 300 MAD as a membership fee.</string>
+    <string name="name">Full Name</string>
+    <string name="address">Contact Address</string>
+    <string name="street">Street Address</string>
+    <string name="city">City</string>
+    <string name="postalcode">Postal Code</string>
+    <string name="parentinfo">Parent Information</string>
+    <string name="studentinfo">Student Information</string>
+    <string name="emailadd">Email Address</string>
+    <string name="relationship">Relationship to Student</string>
+    <string name="birthdate">Birth Date (MM/DD/YYYY)</string>
+    <string name="lvl">Class</string>
+    <string name="submit">Submit</string>
+    <string name="schools">Schools</string>
+    <string name="teachersandstaff">Teachers and Staff</string>
+    <string name="minutes">Meeting Minutes</string>
+    <string name="events">Events</string>
+    <string name="schoolstxt">Here you can write a message or comment that you would like to share with the board of APE-ASI by filling the form below</string>
+    <string name="school">School</string>
+    <string name="grade">Level</string>
+    <string name="parentfname">Parent\'s First Name</string>
+    <string name="parentlname">Parent\'s Last Name</string>
+    <string name="studname">students\'s Full Name</string>
+    <string name="msghint">Write Your Message or Comment Here</string>
+    <string name="num">Phone Number</string>
+    <string-array name="schoolsarr">
+        <item>Pre-School</item>
+        <item>Elementary School</item>
+        <item>Middle School</item>
+        <item>High School</item>
+    </string-array>
+
+</resources>

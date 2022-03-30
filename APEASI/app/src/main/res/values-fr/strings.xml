@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APE-ASI</string>
+    <string name="home">Acceuil</string>
+    <string name="welcome">Bienvenue à l\'application mobile officielle de l\'APE-ASI!</string>
+    <string name="intro">Vous y trouverez des informations sur l\'association et ses événements, vous pourrez également y adhérer, et bien plus encore !</string>
+    <string name="logo">association de parents d\'élèves</string>
+    <string name="aboutus">Qui sommes-nous ?</string>
+    <string name="membership">Adhérer à APE-ASI</string>
+    <string name="membershiptxt">Chaque parent d\'élève est par défaut un membre de l\'APE-ASI, mais pour être un membre actif de l\'association, vous devez remplir le formulaire ci-dessous. Après avoir soumis le formulaire, un membre du conseil d\'administration vous contactera pour payer 300 MAD de frais d\'adhésion.</string>
+    <string name="name">Nom Complet</string>
+    <string name="address">Addresse</string>
+    <string name="street">Adresse Postale</string>
+    <string name="city">Ville</string>
+    <string name="postalcode">Code Postal</string>
+    <string name="parentinfo">Parent</string>
+    <string name="studentinfo">Elève</string>
+    <string name="emailadd">Addresse Email</string>
+    <string name="relationship">relation avec l\'élève</string>
+    <string name="birthdate">Date de Naissance (MM/JJ/AAAA)</string>
+    <string name="lvl">Classe</string>
+    <string name="submit">Soumettre</string>
+    <string name="schools">Ecoles</string>
+    <string name="teachersandstaff">enseignants et personnels</string>
+    <string name="minutes">procès-verbaux des réunions</string>
+    <string name="events">Evénements</string>
+    <string name="schoolstxt">Ici vous pouvez écrire un message ou un commentaire que vous souhaitez partager avec le conseil d\'administration de l\'APE-ASI en remplissant le formulaire ci-dessous.</string>
+    <string name="school">école</string>
+    <string name="grade">classe</string>
+    <string name="parentlname">Nom du Parent</string>
+    <string name="parentfname">Prénom du Parent</string>
+    <string name="msghint">Écrivez votre message ou votre commentaire ici</string>
+    <string name="num">numéro de téléphone</string>
+    <string name="studname">Nom Complet de l\'élève</string>
+    <string-array name="schoolsarr">
+        <item>école maternelle</item>
+        <item>école primaire</item>
+        <item>collège</item>
+        <item>lycée</item>
+    </string-array>
+</resources>
